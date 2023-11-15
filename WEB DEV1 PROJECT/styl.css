@@ -1,0 +1,25 @@
+footer{
+  text-align: center;
+  color:  #F7BD07;
+}
+h1,h2{
+  text-align: center;
+  color: #F7BD07  ;
+  font-family:serif;
+  font-size: 50px;
+}
+.st{
+  border: 0px ;
+   padding: 8px;
+   text-align: left;
+   width: 80%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+#p1,#p2{
+  color: #0707F7 ;
+}
+body{
+  background-image: url("images/dice table.jfif");
+}
